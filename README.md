@@ -1,6 +1,6 @@
 
 
-![Fa'iq Fahdiat Ramadhan](img/github-header-banner.png)
+![Faiq Fahdiat Ramadhan](img/github-header-banner.png)
 
 <!--
 **faiqfr404/faiqfr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
