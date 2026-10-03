@@ -1,4 +1,4 @@
-## Hello, Iam Fa'iq Fahdiat Ramadhan 👋
+
 
 ![Fa'iq Fahdiat Ramadhan](img/github-header-banner.png)
 
